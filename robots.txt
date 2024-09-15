@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://taramingr.github.io/sitemap.html.gz
+Sitemap: https://taramingr.github.io/app/sitemap.html.gz
+Sitemap: https://taramingr.github.io/assets/sitemap.html.gz
+Sitemap: https://taramingr.github.io/css/sitemap.html.gz
+Sitemap: https://taramingr.github.io/includes/sitemap.html.gz
+Sitemap: https://taramingr.github.io/item/sitemap.html.gz
+Sitemap: https://taramingr.github.io/src/sitemap.html.gz
